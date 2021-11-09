@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&display=swap');
+
+
+body{
+background-image: url(jurassic-world-velocicoaster-grand-opening.jpg) ;
+background-size: cover;
+	background-repeat: no-repeat;
+	font-family: IM Fell DW Pica;
+	font-size: 25px;
+}
+}
+
+.titulo{
+	font-family: IM Fell DW Pica;
+}
+
+
+
+
+.back a{
+	text-decoration: none;
+font-family: IM Fell DW Pica;
+	color: white;
+	font-size: 40px;
+
+}
+
+.back a:hover{
+	color: aquamarine;
+}
+

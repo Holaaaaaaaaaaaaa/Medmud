@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Stick+No+Bills:wght@300&display=swap');
+
+body{
+	margin: 0;
+	font-family: Yaldevi;
+	background-image: url(https://pbs.twimg.com/media/DkfbOQhUwAE-beT.jpg) ; 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.coso{
+	text-align: center;
+	margin: 0;
+}
+.coso li{
+	display: inline-block;
+	font-family: Yaldevi;
+}
+.coso a{
+	text-decoration: none;
+	color: black;
+	height: 50px;
+	display: block;
+	padding: 30px;
+	font-size: 30;
+}
+nav{
+	background: #03DFCB;
+}
+
+.coso a:hover{
+	background:#BFBFBF ;
+	font-size: 40px;
+	font-family: Bebas Neue;
+}
+
+.titulo{
+	color: white;
+}
+
+.parrafo{
+	color: white;
+}
+
+
+.video{
+	top: 500px;
+	left: 200px;
+}
